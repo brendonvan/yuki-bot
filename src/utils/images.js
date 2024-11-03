@@ -1,0 +1,22 @@
+module.exports = {
+  sniff1:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365227753050143/DFD18DFA-F8A8-4FD3-98B8-A4AD24B2F958.jpg?ex=67243650&is=6722e4d0&hm=cd9de591e0ed7652c6c9d73f1f8e11e3f83cf1d8fd72fb498cf21328c5845441&=&format=webp&width=620&height=671",
+  sniff2:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365229355143208/956A4AAB-53A9-42E7-9284-1C7B4DFD7468.jpg?ex=67243650&is=6722e4d0&hm=a907f9e67d48fee0adb62fb9cf3c31fccea9485b5cbba5a3d396e49c9186fb6f&=&format=webp&width=617&height=671",
+  stinky1:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365227090346064/ADBC9E47-3DEF-406F-8E8B-B64C32B0DC7C.jpg?ex=67243650&is=6722e4d0&hm=13c3b02db52e13a3fc5b43f0563b37621243918bfc791d883cd3508d2ce9174e&=&format=webp&width=618&height=671",
+  stinkyEnd1:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365226767388702/6B5599C2-1001-48D1-A41E-AAD965C2ED86.jpg?ex=67243650&is=6722e4d0&hm=d8b823cc68b53857014d7e676950b3765d1f1236b4c405b4a99779ff2a174486&=&format=webp&width=602&height=671",
+  stinky2:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365228474204190/D3DC4CBF-6B46-439E-AA23-D4327058EB44.jpg?ex=67243650&is=6722e4d0&hm=40c4a7c4801f88419e9c34ac31c4ce10f1183da9a12ff5f230ee511eb1c97eba&=&format=webp&width=654&height=671",
+  stinkyEnd2:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365228163960832/282B4B4F-0B4B-4468-B611-8AF7FC4ABE25.jpg?ex=67243650&is=6722e4d0&hm=9ce0b24fb475428217d1792aba4c11c9169f4d9a16e31b5b9fae6e475546cd02&=&format=webp&width=615&height=671",
+  notStinky1:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365229355143208/956A4AAB-53A9-42E7-9284-1C7B4DFD7468.jpg?ex=67243650&is=6722e4d0&hm=a907f9e67d48fee0adb62fb9cf3c31fccea9485b5cbba5a3d396e49c9186fb6f&=&format=webp&width=617&height=671",
+  notStinkyEnd1:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365228780519434/6BF7535A-F3C2-4CD2-B3E5-B280086D17E2.jpg?ex=67243650&is=6722e4d0&hm=e2b1557ba3f9214aec552dfc365afcd380a4a0829665a3fa224e7dcab83d710c&=&format=webp&width=610&height=671",
+  notStinky2:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301365229355143208/956A4AAB-53A9-42E7-9284-1C7B4DFD7468.jpg?ex=67243650&is=6722e4d0&hm=a907f9e67d48fee0adb62fb9cf3c31fccea9485b5cbba5a3d396e49c9186fb6f&=&format=webp&width=617&height=671",
+  notStinkyEnd2:
+    "https://media.discordapp.net/attachments/1213867725479346278/1301366941616967732/88D9C057-36EE-47AE-8100-275CA3547F0A.jpg?ex=672437e9&is=6722e669&hm=79321e1b839d39a907a23fe8177c19eede758d47b8ca9c54aa45320a3ffa5ad6&=&format=webp&width=677&height=671",
+};
